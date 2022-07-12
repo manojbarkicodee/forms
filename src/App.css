@@ -1,7 +1,16 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  margin: auto;
+  margin-left:30%;
 }
-
+.form{
+  margin-bottom: 30px;
+}
+/* .table{
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+} */
 .App-logo {
   height: 40vmin;
   pointer-events: none;

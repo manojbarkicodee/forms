@@ -1,0 +1,120 @@
+{
+  "formdata": [
+    {
+      "name": "manu",
+      "age": 23,
+      "address": "sdd",
+      "department": "Dispatch",
+      "salary": 31,
+      "male": true,
+      "id": 2
+    },
+    {
+      "name": "manu",
+      "age": 23,
+      "address": "sdd",
+      "department": "Dispatch",
+      "salary": 39,
+      "male": true,
+      "id": 3
+    },
+    {
+      "name": "manoj",
+      "age": 24,
+      "address": "wee",
+      "department": "Quality",
+      "salary": 34,
+      "male": true,
+      "id": 4
+    },
+    {
+      "name": "manoj",
+      "age": 24,
+      "address": "wee",
+      "department": "Quality",
+      "salary": 45,
+      "male": true,
+      "id": 5
+    },
+    {
+      "name": "manoj",
+      "age": 24,
+      "address": "wee",
+      "department": "Quality",
+      "salary": 48,
+      "male": true,
+      "id": 6
+    },
+    {
+      "name": "madhan",
+      "age": 34,
+      "address": "hanchinamani oni",
+      "salary": 450000,
+      "male": true,
+      "id": 7
+    },
+    {
+      "name": "madhan",
+      "age": 34,
+      "address": "hanchinamani oni",
+      "salary": 450000,
+      "male": true,
+      "department": "Production",
+      "id": 8
+    },
+    {
+      "name": "madhan",
+      "age": 34,
+      "address": "hanchinamani oni",
+      "salary": 45000,
+      "male": true,
+      "department": "Production",
+      "id": 9
+    },
+    {
+      "name": "madhan",
+      "age": 34,
+      "address": "hanchinamani oni",
+      "salary": 4500,
+      "male": true,
+      "department": "Production",
+      "id": 10
+    },
+    {
+      "name": "madhan",
+      "age": 34,
+      "address": "hanchinamani oni",
+      "salary": 450,
+      "male": true,
+      "department": "Quality",
+      "id": 12
+    },
+    {
+      "name": "madhan",
+      "age": 34,
+      "address": "hanchinamani oni",
+      "salary": 45,
+      "male": true,
+      "department": "Quality",
+      "id": 13
+    },
+    {
+      "name": "manoj",
+      "age": 23,
+      "address": "sdd",
+      "department": "Dispatch",
+      "salary": 34000,
+      "male": true,
+      "id": 14
+    },
+    {
+      "name": "manoj",
+      "age": 34,
+      "address": "hhddh",
+      "department": "Dispatch",
+      "salary": 455,
+      "male": true,
+      "id": 15
+    }
+  ]
+}
